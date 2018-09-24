@@ -2,6 +2,8 @@
 
 You can browse my projects here.
 
+### School projects
+- [landing page of the telecoin project](https://fran-cois.github.io/lp-telecoin/)
 ### Hadoop 
 - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
 
