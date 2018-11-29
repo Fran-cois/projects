@@ -14,6 +14,9 @@ You can browse my projects here.
  
  - [ Lab R - kmeans ](lab_reports/R-kmeans/rapport_francois_amat.md)
  
+ - [ Lab Redis](lab_reports/Redis/notice-lab1.md)
+ 
+
 
 #### Telecom ParisTech -- Second year 
 
