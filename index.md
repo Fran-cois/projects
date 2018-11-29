@@ -9,14 +9,19 @@ You can browse my projects here.
 ##### Hadoop
 
  - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
+ 
+ - [Lab MongoDb](lab_reports/MongoDb/notes.md)
 
 #### Telecom ParisTech -- Second year 
 
   - [Landing page of the telecoin project](https://fran-cois.github.io/lp-telecoin/)
+  
+  - [ Lab Hidden markov model](lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
 
 #### Telecom ParisTech -- First year 
 
   - [ Smart delivery - inside drone delivery ](https://github.com/Fran-cois/SmartDelivery)
+  
 ### Utilities
 
  - [Re-Install software on mac os ](https://fran-cois.github.io/fresh_install_mac/)
