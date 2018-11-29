@@ -16,13 +16,13 @@ You can browse my projects here.
  
  - [ Lab Scala ](lab_reports/Scala/notes.md)
  
- - [ Lab Kaggle - forest cover Type] (Lab_reports/kaggle-cover-type-inclass/Francois_amat_rapport.md)
+ - [ Lab Kaggle - forest cover Type](Lab_reports/kaggle-cover-type-inclass/Francois_amat_rapport.md)
  
- - [ Project SPARQL ] (Lab_reports/kaggle-cover-type-inclass/project_semantic_web.md)
+ - [ Project SPARQL ](Lab_reports/kaggle-cover-type-inclass/project_semantic_web.md)
  
- - [ Lab xml] (lab_reports/xml/lab.md)
+ - [ Lab xml](lab_reports/xml/lab.md)
  
- - [ Project xml parsing ] (lab_reports/Project_xml/project_francois_amat/rapport/rapport_francois_amat.md)
+ - [ Project xml parsing ](lab_reports/Project_xml/project_francois_amat/rapport/rapport_francois_amat.md)
  
 
 #### Telecom ParisTech -- Second year 
