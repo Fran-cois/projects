@@ -6,31 +6,46 @@ You can browse my projects here.
 
 #### Telecom ParisTech -- Third year -- Master Data and Knowledge
 
-##### Hadoop
-
  - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
  
  - [ Lab MongoDb ](lab_reports/MongoDb/notes.md)
  
  - [ Lab R - kmeans ](lab_reports/R-kmeans/rapport_francois_amat.md)
  
- - [ Lab Redis](lab_reports/Redis/notice-lab1.md)
+ - [ Lab Redis ](lab_reports/Redis/notice-lab1.md)
  
-
+ - [ Lab Scala ](lab_reports/Scala/notes.md)
+ 
+ - [ Lab Kaggle - forest cover Type](Lab_reports/kaggle-cover-type-inclass/Francois_amat_rapport.md)
+ 
+ - [ Project SPARQL ](Lab_reports/kaggle-cover-type-inclass/project_semantic_web.md)
+ 
+ - [ Lab xml](lab_reports/xml/lab.md)
+ 
+ - [ Project xml parsing ](lab_reports/Project_xml/project_francois_amat/rapport/rapport_francois_amat.md)
+ 
 
 #### Telecom ParisTech -- Second year 
 
-  - [Landing page of the telecoin project](https://fran-cois.github.io/lp-telecoin/)
+  - [ Landing page of the telecoin project ](https://fran-cois.github.io/lp-telecoin/)
   
-  - [ Lab Hidden markov model](lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
+  - [ Lab Hidden markov model ](lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
   
   - [ Lab NMF ](lab_reports/NMF/lab4-NMFfrancoisamat.md)
   
+  - [ Lab sentiment analysis (1/2) ](lab_reports/Sentiment_analysis/sentimentAnalysis_FRANCOIS_AMAT.md)
+  
+  - [ Lab sentiment analysis (2/2) ](lab_reports/Sentiment_analysis/lab_Report_francois_amat.md)
+  
   
 
-#### Telecom ParisTech -- First year 
+#### Telecom ParisTech -- First year
 
-  - [ Smart delivery - inside drone delivery ](https://github.com/Fran-cois/SmartDelivery)
+  - [ Smart delivery - Inside drone delivery ](https://github.com/Fran-cois/SmartDelivery)
+  
+  - [ Week-end Startup IMT - 3D security ](https://www.telecom-paristech.fr/nc/actualites/actualite.html?idactus=3190)
+  
+   
   
 ### Utilities
 
