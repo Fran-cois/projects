@@ -40,8 +40,6 @@ val rdd = df.select("text").rdd.map(row => row.getString(0))
 ```
 
 1. The hashtags are found by this command :
-2.
-
 ```
 val hashtags = df.select("entities.hashtags.text").as[String].collect()
 ```
