@@ -13,6 +13,8 @@ You can browse my projects here.
 #### Telecom ParisTech -- Second year 
 
   - [Landing page of the telecoin project](https://fran-cois.github.io/lp-telecoin/)
+  
+  - [ lab Hidden markov model](https://github.com/Fran-cois/projects/blob/master/lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
 
 #### Telecom ParisTech -- First year 
 
