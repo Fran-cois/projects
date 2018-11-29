@@ -10,13 +10,20 @@ You can browse my projects here.
 
  - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
  
- - [Lab MongoDb](lab_reports/MongoDb/notes.md)
+ - [ Lab MongoDb ](lab_reports/MongoDb/notes.md)
+ 
+ - [ Lab R - kmeans ](lab_reports/R-kmeans/rapport_francois_amat.md)
+ 
 
 #### Telecom ParisTech -- Second year 
 
   - [Landing page of the telecoin project](https://fran-cois.github.io/lp-telecoin/)
   
   - [ Lab Hidden markov model](lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
+  
+  - [ Lab NMF ](lab_reports/NMF/lab4-NMFfrancoisamat.md)
+  
+  
 
 #### Telecom ParisTech -- First year 
 
