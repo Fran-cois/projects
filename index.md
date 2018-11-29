@@ -9,6 +9,8 @@ You can browse my projects here.
 ##### Hadoop
 
  - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
+ 
+ - [Lab MongoDb](lab_reports/MongoDb/notes.md)
 
 #### Telecom ParisTech -- Second year 
 
