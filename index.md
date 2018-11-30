@@ -25,7 +25,7 @@ You can browse my projects here.
 
 #### Telecom ParisTech -- Second year 
 
-  - [ Landing page of the telecoin project ](https://fran-cois.github.io/lp-telecoin/)
+  - [ Landing page of the telecoin project ](https://fran-cois.github.io/lp-telecoin/) [apk]( https://expo.io/artifacts/1bc89c5f-5978-4f6f-8449-52f9f8bb001a) [expo link](https://expo.io/@famat/turbo-telecoin)
   
   - [ Alpha Shoe - Predict the number of shoe return](https://github.com/Fran-cois/AlphaShoe/blob/master/README.md)
   
