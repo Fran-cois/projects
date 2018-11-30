@@ -45,6 +45,7 @@ You can browse my projects here.
   
   - [ Week-end Startup IMT - 3D security ](https://www.telecom-paristech.fr/nc/actualites/actualite.html?idactus=3190)
   
+  - [ Web development and study of a controvercy](https://controverses.telecom-paristech.fr/2017/1-avenir-du-travail-creation-sonore/index.html)
    
   
 ### Utilities
