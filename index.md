@@ -5,8 +5,6 @@ You can browse my projects here.
 ### School projects
 
 #### Telecom ParisTech -- Third year -- Master Data and Knowledge
-
- - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
  
  - [ Lab MongoDb ](lab_reports/MongoDb/notes.md)
  
@@ -50,6 +48,7 @@ You can browse my projects here.
    
   
 ### Utilities
+ - [Install simple hadoop configuration on mac os](https://fran-cois.github.io/hadoop_on_mac/)
 
  - [Re-Install software on mac os ](https://fran-cois.github.io/fresh_install_mac/)
  
