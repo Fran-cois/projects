@@ -29,6 +29,8 @@ You can browse my projects here.
 
   - [ Landing page of the telecoin project ](https://fran-cois.github.io/lp-telecoin/)
   
+  - [ Alpha Shoe - Predict the number of shoe return](https://github.com/Fran-cois/AlphaShoe)
+  
   - [ Lab Hidden markov model ](lab_reports/Hidden_markov_model/lab_Report_francois_amat.md)
   
   - [ Lab NMF ](lab_reports/NMF/lab4-NMFfrancoisamat.md)
