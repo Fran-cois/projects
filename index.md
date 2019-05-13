@@ -1,4 +1,4 @@
-## Welcome to my projects page ! [CV](https://github.com/Fran-cois/curriculum_vitae/blob/master/CV_MARCH_FRANCOIS_AMAT_2019.pdf)
+## Welcome to my projects page ! 
 
 You can browse my projects here.
 
@@ -54,3 +54,7 @@ You can browse my projects here.
  - [Re-Install software on mac os ](https://fran-cois.github.io/fresh_install_mac/)
  
  - [Explore tgvmax / french trains with membership](https://fran-cois.github.io/explore_tgvmax)
+ 
+### Others
+
+[CV](https://github.com/Fran-cois/curriculum_vitae/blob/master/CV_MARCH_FRANCOIS_AMAT_2019.pdf)
