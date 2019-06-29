@@ -55,6 +55,8 @@ You can browse my projects here.
  
  - [Explore tgvmax / french trains with membership](https://fran-cois.github.io/explore_tgvmax)
  
+ - [Compute the cost of a phd student for a company (French Cifre)](https://fran-cois.github.io/calcul_cifre/)
+ 
 ### Others
 
 [CV](https://github.com/Fran-cois/curriculum_vitae/blob/master/CV_MARCH_FRANCOIS_AMAT_2019.pdf)
