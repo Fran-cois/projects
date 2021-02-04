@@ -16,7 +16,7 @@ You can browse my projects here.
  
  - [ Lab Kaggle - forest cover Type](Lab_reports/kaggle-cover-type-inclass/Francois_amat_rapport.md)
  
- - [ Project SPARQL ](Lab_reports/kaggle-cover-type-inclass/project_semantic_web.md)
+ - [ Project SPARQL ](lab_reports/kaggle-cover-type-inclass/project_semantic_web.md)
  
  - [ Lab xml](lab_reports/xml/lab.md)
  
